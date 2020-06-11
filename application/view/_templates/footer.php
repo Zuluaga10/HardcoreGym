@@ -1,7 +1,6 @@
 
           
         </div>
-        <div class="footer">2020 &copy;  <a>Hardcore Gym </a> by <a>CZ. Todos los derechos reservados</a></div>
       </div>
     
     <!-- Demo Settings end-->
